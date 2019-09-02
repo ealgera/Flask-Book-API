@@ -1,4 +1,4 @@
-from flask import Flask
+# from flask import Flask
 from flask_sqlalchemy import SQLAlchemy
 import json
 from settings import app
